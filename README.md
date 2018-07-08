@@ -2,7 +2,7 @@
 
 This simple plugin will add six different possibilities for highlighting interesting repetitive words.
 
-The default mappings are <leader> 1-6 for the six colors.
+The default mappings are `<leader> 1-6` for the six colors.
 
 # installation
 Asuming you're using vim-plugged:
